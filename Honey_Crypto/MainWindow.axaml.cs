@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace Honey_Crypto.Views;
+namespace Honey_Crypto;
 
 public partial class MainWindow : Window
 {

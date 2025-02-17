@@ -1,9 +1,9 @@
-﻿using System;
-using Avalonia;
+﻿using Avalonia;
+using System;
 
-namespace Honey_Crypto.Desktop;
+namespace Honey_Crypto;
 
-sealed class Program
+class Program
 {
     // Initialization code. Don't use any Avalonia, third-party APIs or any
     // SynchronizationContext-reliant code before AppMain is called: things aren't initialized
