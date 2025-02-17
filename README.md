@@ -1,2 +1,3 @@
 # honey_crypto
-cryptocurrency manager for professional (paid work)
+
+utilisez Honey Crypto j'vous jure c'est bien (juste attendez que je finisse le projet)

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Honey_Crypto", "Honey_Crypto\Honey_Crypto.csproj", "{4C75919C-72E7-521B-2894-E9710369ACE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C75919C-72E7-521B-2894-E9710369ACE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C75919C-72E7-521B-2894-E9710369ACE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C75919C-72E7-521B-2894-E9710369ACE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C75919C-72E7-521B-2894-E9710369ACE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD9E200-A52B-412C-B534-46F6BAC49D53}
+	EndGlobalSection
+EndGlobal
